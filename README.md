@@ -20,7 +20,6 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ---
 

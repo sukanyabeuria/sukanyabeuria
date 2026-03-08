@@ -18,9 +18,15 @@
 
 ## 📫 Connect With Me
 
-[LinkedIn]( https://www.linkedin.com/in/sukanya-beuria-2057ab2ba?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+[LinkedIn]
+( https://www.linkedin.com/in/sukanya-beuria-2057ab2ba?utm_source=share_via&utm_content=profile&utm_medium=member_android )
 
-[Instagram] ( https://www.instagram.com/_sukanya_.2?igsh=MXIwNmQ3dHB1cDF3Yg== )
+[Instagram]
+( https://www.instagram.com/_sukanya_.2?igsh=MXIwNmQ3dHB1cDF3Yg== )
+## 📊 GitHub Stats
+
+![Sukanya's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=sukanyabeuria&show_icons=true&theme=tokyonight)
 
 <!--
 **sukanyabeuria/sukanyabeuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

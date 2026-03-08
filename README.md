@@ -31,6 +31,15 @@
 [Instagram]
 ( https://www.instagram.com/_sukanya_.2?igsh=MXIwNmQ3dHB1cDF3Yg== )
 
+- 💻 I’m currently working on Java and DSA practice
+- 🌱 I’m currently learning Web Development and Backend
+- 🤝 I’m looking to collaborate on beginner-friendly projects
+- ❓ I’m looking for help with advanced DSA and backend development
+- 💬 Ask me about Java, basic programming and GitHub
+- 📫 How to reach me: LinkedIn or Instagram
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving coding problems and learning new tech
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h0c3c5N2hxdG0wY2g4Z2V4bW1pb2ZtczU2d3JpNnM3eGJ0cWc3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200"/>
 <!--
 **sukanyabeuria/sukanyabeuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

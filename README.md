@@ -19,6 +19,7 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 ---

@@ -10,8 +10,8 @@
 🌸 *Trying. Improving. Iterating. Repeating — until it works.* 🌸
 ![Profile Views](https://komarev.com/ghpvc/?username=sukanyabeuria&color=ff69b4&style=flat-square)
 />
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="200"/>
 
+<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250"/>
 ## 🚀 Languages & Tools
 
 

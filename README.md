@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc0cb,ff69b4&height=200&section=header&text=Sukanya%20Beuria&fontSize=40&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Sukanya%20Beuria&fontSize=60&fontColor=ffffff" />
+</p>
 # Hi 👋 I'm Sukanya Beuria
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Learning+Java+and+DSA;Future+Software+Engineer;Building+Cool+Things+💻"/>

@@ -47,6 +47,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sukanyabeuria&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabeuria&layout=compact&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukanyabeuria&theme=tokyo-night)](...)
 ## 📫 Connect With Me
 
 [LinkedIn]

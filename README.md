@@ -12,7 +12,9 @@
 🌸 *Trying. Improving. Iterating. Repeating — until it works.* 🌸
 ![Profile Views](https://komarev.com/ghpvc/?username=sukanyabeuria&color=ff69b4&style=flat-square)
 />
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="180"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Learner;Web+Development+Enthusiast" />
+</p>
 
 ## 🛠️ Tech Stack
 

@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Sukanya%20Beuria&fontSize=60&fontColor=ffffff" />
+  
 </p>
 # Hi 👋 I'm Sukanya Beuria
 <p align="center">

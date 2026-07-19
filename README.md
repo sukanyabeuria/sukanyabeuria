@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Learning+Java+and+DSA;Future+Software+Engineer;Building+Cool+Things+💻"/>
 </p>
 
+
 🎓 B.Tech CSIT Student at SOA ITER  
 💻 Learning Java, DSA and Web Development  
 🌱 Currently improving coding skills  

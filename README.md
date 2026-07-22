@@ -59,8 +59,7 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ████░░░░░░ **40%** |
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sukanyabeuria&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sukanyabeuria&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyabeuria&layout=compact&theme=tokyonight)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukanyabeuria&theme=tokyo-night)](...)
 ## 📫 Connect With Me

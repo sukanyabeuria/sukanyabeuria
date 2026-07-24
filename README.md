@@ -81,7 +81,6 @@
 - ⚡ Fun fact: I love solving coding problems and learning new tech
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h0c3c5N2hxdG0wY2g4Z2V4bW1pb2ZtczU2d3JpNnM3eGJ0cWc3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200"/>
-
 <!--
 **sukanyabeuria/sukanyabeuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
